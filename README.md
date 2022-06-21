@@ -23,7 +23,7 @@ Effort must be spent on styling and appearance
 The HTML code should use sematic tags
 The game should have a Readme.md file in the GitHub repository that describes the inspiration for the game, explains the controls and how to play the game, lists the technologies used to build the game, and addresses any outstanding bugs or unfinished functionality
 
-Rock-Paper-Scissors
+<h2>Rock Paper Scissors</h2>
 Rock, Paper, Scissors online, will consist the player playing against a computer opponent.
 
 The player will choose between the 3 options available (rock, paper scissors). The computer opponent will choose between the 3 options available as well.
@@ -32,8 +32,10 @@ The winner is determined on which object they played.
 
 Each object wins against one or loses to another. 
 
-*ROCK defeats SCISSORS
-*SCISSORS defeats PAPER
-*PAPER defeats ROCK
+
+<br>*ROCK defeats SCISSORS
+<br>*SCISSORS defeats PAPER
+<br>*PAPER defeats ROCK
+
 
 If both players pick the same object, the game results in a tie, then play continues till there is a winner. 
